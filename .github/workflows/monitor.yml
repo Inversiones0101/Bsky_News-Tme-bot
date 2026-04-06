@@ -1,0 +1,39 @@
+name: Monitor Financiero VISOR
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 1
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - name: Instalar librerías
+        run: |
+          pip install requests feedparser yfinance pytz deep-translator==1.11.4
+      - name: Ejecutar VISOR
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py
+      - name: Guardar Memoria
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          touch last_id_especial.txt last_id_spotify.txt ultimo_maxi.txt ultimo_msf.txt
+          
+          git add last_id_bsky.json last_id_especial.txt last_id_spotify.txt ultimo_maxi.txt ultimo_msf.txt
+          git commit -m "Actualizar historial [skip ci]" || echo "Sin cambios"
+          git push origin main
