@@ -1,7 +1,5 @@
 {
  "TRENDSPIDER_BSKY": [
-  "https://bsky.app/profile/trendspider.com/post/3msvq6wmvwh2v",
-  "https://bsky.app/profile/trendspider.com/post/3msvu5wc4kb2s",
   "https://bsky.app/profile/trendspider.com/post/3msvwhajexd2e",
   "https://bsky.app/profile/trendspider.com/post/3msw5byna2x2i",
   "https://bsky.app/profile/trendspider.com/post/3mswah2jsvd2y",
@@ -14,10 +12,11 @@
   "https://bsky.app/profile/trendspider.com/post/3msxqu52ivo2o",
   "https://bsky.app/profile/trendspider.com/post/3msxxzvjeou2n",
   "https://bsky.app/profile/trendspider.com/post/3msy3bznmdo2q",
-  "https://bsky.app/profile/trendspider.com/post/3msy7h73t4s2y"
+  "https://bsky.app/profile/trendspider.com/post/3msy7h73t4s2y",
+  "https://bsky.app/profile/trendspider.com/post/3msydtnnosb2h",
+  "https://bsky.app/profile/trendspider.com/post/3msydjdfuuh2b"
  ],
  "BARCHART_BSKY": [
-  "https://bsky.app/profile/barchart.com/post/3msvzk6fjcu2j",
   "https://bsky.app/profile/barchart.com/post/3msvyko2kh625",
   "https://bsky.app/profile/barchart.com/post/3msw53k2h5h2t",
   "https://bsky.app/profile/barchart.com/post/3msw44oemf72k",
@@ -31,7 +30,8 @@
   "https://bsky.app/profile/barchart.com/post/3mswwfplgh22j",
   "https://bsky.app/profile/barchart.com/post/3msx6jsp6cs2i",
   "https://bsky.app/profile/barchart.com/post/3msx442lcih2t",
-  "https://bsky.app/profile/barchart.com/post/3msxfwzvvuc2u"
+  "https://bsky.app/profile/barchart.com/post/3msxfwzvvuc2u",
+  "https://bsky.app/profile/barchart.com/post/3msyeon7zrl2m"
  ],
  "QUANTHUSTLE": [
   "https://bsky.app/profile/quanthustle.bsky.social/post/3mp57s3ae4r2x",
@@ -68,7 +68,6 @@
   "https://bsky.app/profile/earningsforesight.bsky.social/post/3msvpgtxies2q"
  ],
  "GITHUB_TRENDING": [
-  "https://bsky.app/profile/github-trending.bsky.social/post/3msvgcrppsf2i",
   "https://bsky.app/profile/github-trending.bsky.social/post/3msvjo3kuaz2r",
   "https://bsky.app/profile/github-trending.bsky.social/post/3msvmzbyjvm2s",
   "https://bsky.app/profile/github-trending.bsky.social/post/3msvtpvopso2r",
@@ -82,6 +81,7 @@
   "https://bsky.app/profile/github-trending.bsky.social/post/3msxwroqhfh2g",
   "https://bsky.app/profile/github-trending.bsky.social/post/3msxtgjktol2w",
   "https://bsky.app/profile/github-trending.bsky.social/post/3msy24z5w4g2t",
-  "https://bsky.app/profile/github-trending.bsky.social/post/3msy5i6cdhx2j"
+  "https://bsky.app/profile/github-trending.bsky.social/post/3msy5i6cdhx2j",
+  "https://bsky.app/profile/github-trending.bsky.social/post/3msyatomraj2f"
  ]
 }
