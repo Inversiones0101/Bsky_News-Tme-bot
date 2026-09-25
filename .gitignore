@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Backups del historial (last_id_bsky.json.backup)
+*.backup
+
 # C extensions
 *.so
 
