@@ -1,8 +1,5 @@
 {
  "TRENDSPIDER_BSKY": [
-  "https://bsky.app/profile/trendspider.com/post/3mzhayko4fk2d",
-  "https://bsky.app/profile/trendspider.com/post/3mzikdhh5vv2d",
-  "https://bsky.app/profile/trendspider.com/post/3mzifxpkqww2v",
   "https://bsky.app/profile/trendspider.com/post/3mzj3opirxi2r",
   "https://bsky.app/profile/trendspider.com/post/3mziya6gkdp27",
   "https://bsky.app/profile/trendspider.com/post/3mziueiaozd2d",
@@ -14,12 +11,12 @@
   "https://bsky.app/profile/trendspider.com/post/3mzjsc7alx62i",
   "https://bsky.app/profile/trendspider.com/post/3mzlappdu242g",
   "https://bsky.app/profile/trendspider.com/post/3mzl57okpgj2r",
-  "https://bsky.app/profile/trendspider.com/post/3mzl2pkdaj527"
+  "https://bsky.app/profile/trendspider.com/post/3mzl2pkdaj527",
+  "https://bsky.app/profile/trendspider.com/post/3mzlqtea5jd27",
+  "https://bsky.app/profile/trendspider.com/post/3mzlmxr4kea27",
+  "https://bsky.app/profile/trendspider.com/post/3mzlisine3l27"
  ],
  "BARCHART_BSKY": [
-  "https://bsky.app/profile/barchart.com/post/3mzf2oevxik2e",
-  "https://bsky.app/profile/barchart.com/post/3mzezuhfrgk2e",
-  "https://bsky.app/profile/barchart.com/post/3mzeyz4ngkc2e",
   "https://bsky.app/profile/barchart.com/post/3mzhfe65l722i",
   "https://bsky.app/profile/barchart.com/post/3mzhdahsdh22i",
   "https://bsky.app/profile/barchart.com/post/3mzj64xwy5j27",
@@ -31,7 +28,10 @@
   "https://bsky.app/profile/barchart.com/post/3mzjuo3knng2u",
   "https://bsky.app/profile/barchart.com/post/3mzld6czapd2x",
   "https://bsky.app/profile/barchart.com/post/3mzlci2nbym2x",
-  "https://bsky.app/profile/barchart.com/post/3mzlbnv66cv2i"
+  "https://bsky.app/profile/barchart.com/post/3mzlbnv66cv2i",
+  "https://bsky.app/profile/barchart.com/post/3mzloog53z42u",
+  "https://bsky.app/profile/barchart.com/post/3mzli7ldry72j",
+  "https://bsky.app/profile/barchart.com/post/3mzlh7n6h672u"
  ],
  "QUANTHUSTLE": [
   "https://bsky.app/profile/quanthustle.bsky.social/post/3mpcapugqm22g",
@@ -68,9 +68,6 @@
   "https://bsky.app/profile/earningsforesight.bsky.social/post/3mzlaifnwjk2q"
  ],
  "GITHUB_TRENDING": [
-  "https://bsky.app/profile/github-trending.bsky.social/post/3mzg52y4n6o24",
-  "https://bsky.app/profile/github-trending.bsky.social/post/3mzfzpoyb232v",
-  "https://bsky.app/profile/github-trending.bsky.social/post/3mzfweezgwe2i",
   "https://bsky.app/profile/github-trending.bsky.social/post/3mzik6lcli72i",
   "https://bsky.app/profile/github-trending.bsky.social/post/3mzidhzzfsp2m",
   "https://bsky.app/profile/github-trending.bsky.social/post/3mzj2wzyymv2j",
@@ -82,6 +79,9 @@
   "https://bsky.app/profile/github-trending.bsky.social/post/3mzjsg6fvjv22",
   "https://bsky.app/profile/github-trending.bsky.social/post/3mzlbf6g6c222",
   "https://bsky.app/profile/github-trending.bsky.social/post/3mzl5zwxkfm22",
-  "https://bsky.app/profile/github-trending.bsky.social/post/3mzknac47m622"
+  "https://bsky.app/profile/github-trending.bsky.social/post/3mzknac47m622",
+  "https://bsky.app/profile/github-trending.bsky.social/post/3mzlorrnoz72j",
+  "https://bsky.app/profile/github-trending.bsky.social/post/3mzllge544b2m",
+  "https://bsky.app/profile/github-trending.bsky.social/post/3mzlepnr7t32j"
  ]
 }
